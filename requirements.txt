@@ -1,0 +1,9 @@
+Flask
+pandas
+numpy
+transformers
+torch
+spacy
+seaborn
+matplotlib
+gunicorn
